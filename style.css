@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, Helvetica, sans-serif
+}
+
+i {
+  color: black;
+}
+
+li {
+  list-style-type: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: -35px;
+  font-size: 20px;
+  width: 104%;
+  border-bottom: 1px solid lightgrey;
+  color: #333;
+}
+.wrapper {
+  width: 65%;
+  height: 500px;
+  margin-left: 15%;
+}
+
+header {
+  height: 50px;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  margin: 0;
+  margin-left: 40%;
+  font-weight: 100;
+  padding: 10px;
+}
+
+.fa-play {
+  font-size: 18px;
+}
+
+.fa-stop {
+  font-size: 18px;
+}
